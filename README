@@ -8,3 +8,4 @@ TODO: Describe Your Project
 http://guides.sproutcore.com/getting_started.html
 
 works on ruby 1.9.2 and sproutcore 1.6 beta (gem install sproutcore --pre)
+test
